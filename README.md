@@ -18,7 +18,7 @@
 <br></br>
 <br></br>
 <br></br>
-<h2 align="center"><i>Connect with me:</i></h2>
+<h2 align="center"><i>Connect with me:</i></h2><br></br>
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/deepnikode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepnikode" height="30" width="40" /></a>
 </p>
@@ -40,4 +40,4 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepnikode&show_icons=true&locale=en&layout=compact" alt="deepnikode" /></p>
+
