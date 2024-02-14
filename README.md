@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deep Nikode</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.vecteezy.com/vector-art/16962025-web-development-concept-with-programmer-and-ar)">
 
 - 🔭 I’m currently working on **Netflix Clone**
 
