@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot 3, Angular**
 
-- 📝 I regularly write articles on [https://shorturl.at/syFNU](https://shorturl.at/syFNU)
+- 📝 I regularly write articles on Web Technologies.[https://shorturl.at/syFNU](https://shorturl.at/syFNU)
 
 - 💬 Ask me about **Java J2EE, Javascript, MySql**
 
