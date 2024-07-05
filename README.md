@@ -35,7 +35,7 @@
    
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
    
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Bootstrap" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
    
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
