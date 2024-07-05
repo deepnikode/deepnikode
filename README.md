@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Brushing **Spring Boot 3, React**
 
-- 📝 I regularly write articles on : Link: [https://dev.to/deepnikode/enhancing-data-security-with-aes-encryption-in-java-95])
+- 📝 I regularly write articles on : Link: [https://rb.gy/vulngz])
 
 - 💬 Ask me about **Java J2SE, J2EE, MySql, Javascript, React** 
 
