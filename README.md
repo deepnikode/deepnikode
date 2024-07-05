@@ -2,13 +2,13 @@
    <h2 align="center">  <i>   A passionate Fullstack developer from India    </i>  </h2>   <br></br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Employee Spy** at **Team Vault**
 
-- 🌱 I’m currently learning **Spring Boot 3, Angular**
+- 🌱 I’m currently Brushing **Spring Boot 3, React**
 
-- 📝 I regularly write articles on Web Technologies. Link: [https://shorturl.at/syFNU](https://shorturl.at/syFNU)
+- 📝 I regularly write articles on : Link: [https://dev.to/deepnikode/enhancing-data-security-with-aes-encryption-in-java-95])
 
-- 💬 Ask me about **Java J2EE, Javascript, MySql**
+- 💬 Ask me about **Java J2SE, J2EE, MySql, Javascript, React** 
 
 - 📫 How to reach me **deepnikode@gmail.com**
 
