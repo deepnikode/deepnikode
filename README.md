@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on : Link: [https://rb.gy/vulngz])
 
-- 💬 Ask me about **Java J2SE, J2EE, MySql, Javascript, React** 
+- 💬 Ask me about **Java, Spring Boot, MySql, Javascript, React** 
 
 - 📫 How to reach me **deepnikode@gmail.com**
 
