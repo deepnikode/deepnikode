@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Deep Nikode</h1>
+<h1 align="center">Hi,👋 I'm Deep Nikode</h1>
    <h2 align="center">  <i>   A passionate Fullstack developer from India    </i>  </h2>   <br></br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Employee Spy** at **Team Vault**
 
-- 🌱 I’m currently Brushing **Spring Boot 3, React**
+- 🌱 I’m currently Expertizing myself in **Spring Boot 3, React**
 
 - 📝 I regularly write articles on : Link: [https://rb.gy/vulngz])
 
